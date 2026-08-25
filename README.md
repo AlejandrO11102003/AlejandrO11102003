@@ -47,17 +47,11 @@ Soy un desarrollador de software con una mentalidad hábil, apasionado por el ci
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlejandroO11102003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroO11102003&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ### 📫 ¿Conectamos?
 
 <a href="mailto:alejandrocastillojara30@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://wa.me/51981142779">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
