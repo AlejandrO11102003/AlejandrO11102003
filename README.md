@@ -6,8 +6,8 @@ Soy un desarrollador de software con una mentalidad hábil, apasionado por el ci
 
 ### 🚀 Sobre mí
 - 💻 Trabajo como desarrollador independiente creando soluciones a medida para clientes.
-- ⚙️ Me especializo en el backend con **Java y Spring Boot**, y en el frontend con **Angular, JavaScript, React con TS y CSS**.
-- 🎓 Estudiante de Ingeniería de Sistemas en la Universidad Tecnológica del Perú .
+- ⚙️ Me especializo en el backend con **Java (Spring Boot)** y **Python (Flask)**, y en el frontend con **Angular, JavaScript y Tailwind CSS**.
+- 🎓 Estudiante de Ingeniería de Sistemas en la UTP.
 - 🔍 Interesado en Arquitectura Full-Stack, Optimización de Algoritmos y Revisiones Sistemáticas de Literatura (RSL).
 - ⚡ Dato curioso: Me encanta optimizar y personalizar mis entornos de terminal (Git Bash, PowerShell) para llevar el flujo de trabajo al máximo nivel.
 
@@ -22,12 +22,17 @@ Soy un desarrollador de software con una mentalidad hábil, apasionado por el ci
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend & Bases de Datos:**  
+**Backend:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Bases de Datos:**  
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Herramientas & Control de Versiones:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
